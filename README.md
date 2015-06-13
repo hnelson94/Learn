@@ -1,1 +1,1 @@
-# Learn Python The Hard Way exercises
+# Learn Python The Hard Way Exercises
